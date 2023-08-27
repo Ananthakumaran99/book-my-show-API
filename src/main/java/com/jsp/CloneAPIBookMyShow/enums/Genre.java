@@ -1,0 +1,21 @@
+package com.jsp.CloneAPIBookMyShow.enums;
+
+public enum Genre {
+
+	
+	ACTION,
+	DRAMA,
+	HORROR,
+	THRILLER,
+	COMEDY,
+	ROMANTIC,
+	MYSTERY,
+	HISTORICAL,
+	SPORTS,
+	MYTHOLOGY,
+	FICTION,
+	CRIME,
+	EMOTIONAL,
+	SUSPENSE,
+	
+}
